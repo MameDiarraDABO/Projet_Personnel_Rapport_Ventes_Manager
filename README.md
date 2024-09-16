@@ -3,6 +3,7 @@ Réaliser un rapport des ventes par Manager
 
 ## Livrables:
 * Les données à analyser;
+* Fichier au format power Bi (pbix)
 * Le rapport au format PDF avec les différentes pages d'analyse.
 
 ## Compétences:
