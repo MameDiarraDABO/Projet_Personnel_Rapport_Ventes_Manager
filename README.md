@@ -2,6 +2,7 @@
 Réaliser un rapport des ventes par Manager
 
 ## Livrables:
+* Les données à analyszer;
 * Le rapport au format PDF avec les différentes pages d'analyse.
 
 ## Compétences:
